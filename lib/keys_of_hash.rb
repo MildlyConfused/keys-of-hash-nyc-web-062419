@@ -3,5 +3,3 @@ class Hash
     arguments
   end
 end
-
-puts Hash(["ben","shan"])
